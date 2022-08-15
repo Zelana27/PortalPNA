@@ -1,0 +1,81 @@
+- Manuais úteis 
+º Publicar no portal
+º Actualizar o Portal
+
+-Painel de Informaçoes 
+º Meus Documentos
+º Decretos leis 
+º Membros do Conselho Superior da Polícia
+
+- Serviços- Utilizadores
+º Vitrine
+º E-mail institucional
+º Nuvem privada da PNA
+º Chat Privado da PNA
+º Indicativos de Rádios
+º Intercomunicadores
+
+- Links
+º Portal da Polícia Nacional
+º Interpol
+º Identificaçao 
+º Consultas de Diplomas Legais 
+º SIIGOA- SIC
+
+- Instituiçoes de Ensino Policial
+º Academia de Policíca 
+º Colégio de Polícia 
+º Escola de Polícia
+º Instituto Superior de Ciencias Policiais e 
+Criminais- ISCPC
+
+- Base de dados 
+- Configuraçoes 
+
+
+
+Admin User
+Dois Usuários ( DAS, JUR)
+Vitrine (Vizualizaçao das Publicaçoes OFICÍOS, 
+CIRCULARES, DESPACHOS, Lei, Regulamentos, 
+Decretos, Etc..)
+
+Super Admin Developers 
+
+LINKS:
+https://pna.gov.ao
+https://mail.pn.gov.ao/owa
+https://trocadocpn.gov.ao
+www.interpol.int
+http://www.servicos.minjusdh.gov.ao
+https://in.lexdata.co.ao
+https://sic.gov.ao
+
+
+
+Quem somos nós
+A direcção de Telecomunicações e Tecnologias de Informação da Polícia Nacional de Angola.
+Abreviadamente designada por "DTTI" é o orgão do Comando Geral da Polícia Nacional de Angola 
+ao qual incumbe desenvolver projectos e estratégias relativas as telecomunicações, soluções de natureza
+ informática e tecnologia, conceber e garantir a implementação das tecnologias de informação na PNA, 
+bem como estudar as necessidades em meios de telecomunicações e de equipamentos informáticos, providenciar
+ a sua aquisição, distribuição, controlo e manutenção.
+"Inovar, Interligar E Integrar As Tecnologias Para Garantir A Ordem Pública"
+
+Conctatos
+Telefone
++244 222 339 461
+Email
+dtti.cgpna@pn.gov.ao
+Endereço
+Marginal-Ilha, Luanda
+
+
+Actividades
+
+
+
+
+
+
+
